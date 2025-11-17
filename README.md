@@ -27,7 +27,7 @@
 ## 🚀 Featured Projects
 
 ### 🍎 Apple Retail Sales Analysis
-**[View Project](./apple_retail_sql_project/README.md)** | `SQL` `Data Analysis` `EDA`
+**[View Project](https://github.com/brunodpl/apple_retail_sql_project)** | `SQL` `Data Analysis` `EDA`
 
 Comprehensive SQL-based exploratory analysis of Apple retail store performance across global locations. Identified key success factors and revenue patterns through data-driven insights.
 
@@ -42,7 +42,7 @@ Comprehensive SQL-based exploratory analysis of Apple retail store performance a
 ---
 
 ### 📦 Easy Stock - Warehouse Management System
-**[View Project](./easy_stock/README.md)** | `Full-Stack` `JavaScript` `Node.js` `Voice Control`
+**[View Project](https://github.com/brunodpl/easy_stock)** | `Full-Stack` `JavaScript` `Node.js` `Voice Control`
 
 Intelligent inventory management system designed for SMEs, featuring voice control, automated alerts, and real-time KPI tracking.
 
@@ -63,7 +63,7 @@ Intelligent inventory management system designed for SMEs, featuring voice contr
 ---
 
 ### ⚡ Nuclear Energy Consumption Analysis
-**[View Project](./nuclear_energy_consumption/README.md)** | `Python` `Data Science` `Jupyter`
+**[View Project](https://github.com/brunodpl/nuclear_energy_consumption)** | `Python` `Data Science` `Jupyter`
 
 Analysis of global nuclear energy consumption patterns and trends. Explores energy data to understand nuclear power usage across different regions and time periods.
 
@@ -72,7 +72,7 @@ Analysis of global nuclear energy consumption patterns and trends. Explores ener
 ---
 
 ### 🧹 Supermarket Data Cleaning & Analysis
-**[View Project](./cleaning_data_sql/README.md)** | `SQL` `Data Cleaning` `ETL`
+**[View Project](https://github.com/brunodpl/cleaning_data_sql)** | `SQL` `Data Cleaning` `ETL`
 
 Complete data cleaning and initial analysis of supermarket data using advanced SQL techniques. Demonstrates data quality improvement, handling missing values, and preparing datasets for analysis.
 
@@ -129,9 +129,9 @@ Complete data cleaning and initial analysis of supermarket data using advanced S
 
 **Let's connect and discuss how data can drive your business forward!**
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoisdpl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-brunodpl-181717?style=for-the-badge&logo=github)](https://github.com/brunodpl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/brunodpl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brunodelpalaciorodriguez/)
 
 </div>
 

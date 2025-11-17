@@ -1,12 +1,8 @@
-<div align="center">
-
 # 👨‍💻 Bruno Del Palacio Rodríguez
 ## Data Analyst | Future Data Scientist | Problem Solver
 
 [![GitHub](https://img.shields.io/badge/GitHub-brunodpl-181717?style=for-the-badge&logo=github)](https://github.com/brunodpl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brunodelpalaciorodriguez/)
-
-</div>
 
 ---
 
@@ -125,22 +121,12 @@ Complete data cleaning and initial analysis of supermarket data using advanced S
 
 ## 📫 Get In Touch
 
-<div align="center">
-
 **Let's connect and discuss how data can drive your business forward!**
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoisdpl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-brunodpl-181717?style=for-the-badge&logo=github)](https://github.com/brunodpl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brunodelpalaciorodriguez/)
 
-</div>
-
----
-
-<div align="center">
-
 *Portfolio last updated: November 2025*
 
 **⭐ Star my repositories if you find them interesting!**
-
-</div>

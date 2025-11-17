@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Bruno Del Pino López
+# 👨‍💻 Bruno Del Palacio Rodríguez
 ## Data Analyst | Future Data Scientist | Problem Solver
 
 [![GitHub](https://img.shields.io/badge/GitHub-brunodpl-181717?style=for-the-badge&logo=github)](https://github.com/brunodpl)

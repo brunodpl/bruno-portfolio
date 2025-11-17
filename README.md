@@ -1,10 +1,9 @@
-<div>
+
   ![GitHub](https://img.shields.io/badge/GitHub-brunodpl-181717?style=for-the-badge&logo=github)
   **[GITHUB](https://github.com/brunodpl)**
 
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)
   **[LINKEDIN](https://www.linkedin.com/in/brunodelpalaciorodriguez/)**
-</div>
 
 
 ## 🎯 About Me

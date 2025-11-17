@@ -1,9 +1,9 @@
 # 👨‍💻 Bruno Del Palacio Rodríguez
 ## Data Analyst | Future Data Scientist | Problem Solver
 
-[![GitHub](https://img.shields.io/badge/GitHub-brunodpl-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-brunodpl-181717?style=for-the-badge&logo=github)
 ### https://github.com/brunodpl
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)
 ### https://www.linkedin.com/in/brunodelpalaciorodriguez/
 
 ---
